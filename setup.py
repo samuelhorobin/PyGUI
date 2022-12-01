@@ -27,7 +27,7 @@ setup(
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
-        "Operating System :: Windows",
-        "License :: MIT License"
+        "Operating System :: Microsoft :: Windows",
+        "License :: OSI Approved :: MIT License"
     ]
 )
